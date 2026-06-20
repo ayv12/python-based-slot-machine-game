@@ -23,10 +23,10 @@ This application simulates a slot machine game where users can place bets and sp
 
 ## How to Run
 
-Clone the repository
-Navigate to the project folder
-Run:
-python pythonscript.py
+* Clone the repository
+* Navigate to the project folder
+* Run:
+* python pythonscript.py
 
 
 
