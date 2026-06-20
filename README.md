@@ -21,6 +21,13 @@ A casino-style desktop game built using Python and Tkinter, featuring a graphica
 
 This application simulates a slot machine game where users can place bets and spin the reels for randomized results. The project combines GUI development with game logic to create an engaging desktop application.
 
+## How to Run
+
+Clone the repository
+Navigate to the project folder
+Run:
+python pythonscript.py
+
 
 
 GitHub: https://github.com/ayv12
